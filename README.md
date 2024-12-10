@@ -22,11 +22,11 @@ To install this project locally, follow these steps:
 
 1. Clone the repository:
 
-    `git clone git@github.com:Connorldailey/Module9-Challenge.git`
+    `git clone git@github.com:D-Wargle/API-Challenge.git`
 
 2. Navigate to the project directory:
 
-    `cd Module9-Challenge`
+    `cd develop`
 
 3. Install the dependencies:
 
@@ -38,9 +38,6 @@ To install this project locally, follow these steps:
 
 The application will now be accessible at `http://localhost:3000`.
 
-## Usage 
-
-To use the application, visit the [site URL](https://module9-challenge-b2vj.onrender.com).
 
 **How to Get Started**:
 
